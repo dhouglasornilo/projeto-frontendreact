@@ -8,7 +8,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Repositório_Dhouglas_Ornilo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhouglasornilo/projeto-intro-web-js)
+[![GitHub](https://img.shields.io/badge/Repositório_Dhouglas_Ornilo-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/dhouglasornilo/projeto-intro-web-js](https://github.com/dhouglasornilo/projeto-frontendreact))
 
 
 <br>
