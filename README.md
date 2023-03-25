@@ -13,7 +13,7 @@
 
 <br>
 
-### Link do Netlify abaixo.
+### Link do Surge abaixo.
 <br>
 
 [![Jogar](https://img.shields.io/badge/Projeto-DhouglasOrnilo-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://projeto-react-dhouglasornilo.surge.sh)
